@@ -12,6 +12,13 @@
 
 /* Customize Slideshow */
 
+.container .fade{
+    margin:40px auto;
+    width:70vw;
+    /* Set Max Content Width */
+    max-width:700px;   
+}
+
 /* Customize Previous/Next/Dots/Autoplay */
 
 .slick-autoplay-toggle-button,
